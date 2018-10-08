@@ -33,6 +33,8 @@ We are working on getting a better table of the NYT's information now as well as
 
 ## Print signs, share signs, make it known.
 
+![VoteNov Printables.](assets/votenov-700.png){:class="img-responsive"}
+
 Between now and November 6, 2018, let's talk about voting, preparing to vote, helping other prepare to vote, and reminding each other that it is coming up very soon. Outside of the social and real life conversations, let's create some signs inviting others to vote with us. Here's your call to action:
 
 1. Print out this sign and put it in a place where many people can see it. [PNG](http://votenov.com/assets/votenov-700.png)
