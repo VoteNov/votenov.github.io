@@ -1,4 +1,4 @@
-# Be heard NOW
+# Be heard in 2020
 
 Between now and November 3, 2020, let's talk about voting, preparing to vote, helping other prepare to vote, and reminding each other that it is coming up very soon. Outside of the social and real life conversations, let's create some signs inviting others to vote with us. Here's your call to action.
 
@@ -24,4 +24,4 @@ Register to vote: [Vote.gov](https://vote.gov/)
 Inscríbase para votar : [Vote.gov](https://vote.gov/es/)
 
 ## Who is behind this?
-@Shelton, and @TheEmpathyLab are currently steering this boat at the moment. So that we don't bring personal bias into this README, there is plenty more about the two elsewhere. Go check him and the Lab out.
+[@Shelton](https://github.com/shelton), and [@TheEmpathyLab](https://github.com/theempathylab) are currently steering this boat at the moment. So that we don't bring personal bias into this effort, there is plenty more about those two elsewhere. Go check him and the Lab out.
